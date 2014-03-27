@@ -1,0 +1,9 @@
+$big-text-color: green;
+$wrapper-color: #999999;
+
+.wrapper{
+  background-color: $wrapper-color;
+  h1{
+    color: $big-text-color;
+  }
+}
